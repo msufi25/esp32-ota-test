@@ -1,0 +1,7 @@
+{
+  "version": "v1.0.6",
+  "base_url": "https://github.com/msufi25/esp32-ota-test/releases/download/Test_Firmware_Update/",
+  "crc16": "0x163F",
+  "filename": "firmware_v1.0.6.bin",
+  "url": "https://github.com/msufi25/esp32-ota-test/releases/download/Test_Firmware_Update/firmware_v1.0.6.bin"
+}
